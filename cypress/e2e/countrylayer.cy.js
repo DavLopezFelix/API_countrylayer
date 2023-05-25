@@ -82,8 +82,8 @@ describe('TestSuite', function() {
   })
 
   //This case is skipped because the POST method does not exist
-  //and it breaks the test suiute
-  //However, this case can be run replacing the line 88:
+  //and it breaks the test suite.
+  //Once it is implemented, this case can be run replacing the line 88:
   //it('Adding new country', function(){
   it.skip('Adding new country', function(){
     cy.request({
