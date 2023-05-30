@@ -4,7 +4,10 @@ Introduction
 - The porpouse is to assess API testing skills
 - The script was created using Cypress Framework
 
-Steps to run:
+Prerequisites:
+- Node.js
+
+Steps to run the script:
 - Clone the repository in your local directory
 - Open the local directory using VSC
 - Install cypres in the local directory: npm install cypress
