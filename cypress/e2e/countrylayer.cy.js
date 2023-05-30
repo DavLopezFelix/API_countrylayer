@@ -2,7 +2,7 @@
 
 describe('TestSuite', function() {
   //declaring accessToken 
-  const queryParam = {access_key: "d205206bfafb2d31f949d345ee0d82eb"};
+  const queryParam = {access_key: "d250e0a80e0e67f18866958c3f56915d"};
 
   //declaring alphacode plus country associated with
   const country1 = ["US", "United States of America"];
