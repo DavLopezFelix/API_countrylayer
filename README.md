@@ -1,7 +1,7 @@
-# Tranzact_API_Challenge
+# API_Testing
 Introduction
 - The scripts are testing some endpoints from countrylayer API service.
-- The purpose is to test the request and asses responses of some APIs
+- The purpose is to test the request and asses responses of some endpoints.
 - The script was created using Cypress Framework
 
 Prerequisites:
