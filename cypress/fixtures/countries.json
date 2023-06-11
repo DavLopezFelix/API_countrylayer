@@ -1,0 +1,22 @@
+[
+    {
+        "alphacode" : "US",
+        "name" : "United States of America",
+        "code" : 200
+    },
+    {
+        "alphacode" : "DE",
+        "name" : "Germany",
+        "code" : 200
+    },
+    {
+        "alphacode" : "GB",
+        "name" : "United Kingdom of Great Britain and Northern Ireland",
+        "code" : 200
+    },
+    {
+        "alphacode" : "KK",
+        "name" : "non-existent country",
+        "code" : 404
+    }
+]
